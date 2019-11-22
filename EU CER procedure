@@ -1,1 +1,49 @@
-<mxfile host="www.draw.io" modified="2019-11-22T08:17:20.738Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" version="12.2.9" etag="KIL3cV-rPB7MpO_82ZFf" type="github" pages="1"><diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">7VpLk9o4EP41HJPyk8cxwwxJbSV7Ybf2LOQGVJEljywBs79+uyWZx5hUclgCB3PA7ofUra+bz1LhUT6vD58Na7bfdAVylCXVYZQ/j7IsLfICL6R5C5piNguKjRFVdDopluJfiMokap2ooL1wtFpLK5pLJddKAbcXOmaM3l+6rbW8jNqwDfQUS85kX/uPqOw2atMkORm+gNhsY+hpGQ0rxr9vjHYqxhtl+dp/grlm3VzRv92ySu/PVPnLKJ8brW24qw9zkIRtB1sYt/iB9Zi3AWV/ZUA5WcOYrYAn03VS8NWHOMOOSRex+IOpmKt96/DBtBu6bS00o/xpvxUWlg3jpNtjS6Bua2uJUoq3a61srHE2JVlIOddSGz9ZniTTZLGIfmf6hf+gvrVGf4fOorTCmZ76K+1SB2PhcKaKK/8MugZr3tAlWmexCLFJ02mU92cln0Td9rzaUcdil22OM5+QxpsI9i8Cn/WA/8bMrYGflC/TOwCfFY+EfH4F+bdbIz+ezOd3QD5/qJ4v+mTj5O2hz+bFHaAvH6rpyx70SwT3xsiXs6fkDsiPH6rpxz3k/9S7WyNfPOMO7PcjP32onp/0kM+SdNKDHtdmL+G9Cs87jMfp0yePJZNio1DHETZA4xPBJXBv+SkaalFVFOtqUc8qWXYstYy5pf0KHiv7PxQrzd4VK+0Xazq+UqzxLYo17RXrqzZQ05CmdXStPAxYOmEpOIYcZfNwKGjxUADWkZVVohGt4EJtUAIpolcLlZ+DlMK1tSbRQt34OYXiohKVUzS1oy/JVhifvG0XG/yOfqMYhZHi1bGPePc32UGJ2gcnFxGEHSpZHaK/OtHiRWlsLUdOcADDhWVWaEUhpWQ1113c4IzL6LLx4UTjB9IX8+uucRW6QwDTsZTPcwjFnKV8hXE+7w48QdEMNAa2oCowHkuv3GnpGkwIfOoetwTalkSOrX8qgQfF4dfabQQjN0Xph3ZEhTOUxsuBQ2PBhYp5XDXnDLgfwV0jKmbDaI9AYzSeAVVXrVAJnxh3smEBQ5pkvcbikownRjDBr9YyJMwC9MJD3B7r6GpMaSzpZ77ChMYbulv6jvDwNmDahqa1Hjs8ztEida28KFoPisKlkQh44Dz14RE2X3/OXcuUFWdo1a8OfB6u6iy0QqstNUcSehzJ3xybBVgYgo0f1s1IYitSSak9LthcNpRiR0WMifteRX/fOMxwIhxuacQKEG3vLsK1EtyyE9JwaCSS1kp//BE/tkhc+KP6SyNtPeN+oseI8eD704dXR5gS1vaSAdMsygtWC0m09AXkDohN34WLnHyr59jx4B+pMbv2HCuuUGMxuQU3zgZuHLhx4MaBGx+BG7Pyobix27QO5DiQ40COAznelxyLx9o4pv2/dwZyHMhxIMeBHO9AjuWD7Rz7f8EO5DiQ40COAznegRwnD7Zz7L8lMZDjQI4DOQ7keAdynJbl7yNHFE8vZHrb2Vuv+ct/</diagram></mxfile>
+<mxfile host="www.draw.io" modified="2019-11-22T08:41:28.033Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="oGHeS8cW_GmVhMGdi5NV" version="12.2.9" type="github" pages="1">
+  <diagram name="Page-1" id="d9b1e647-80fa-b4a2-5024-87a742678bcc">
+    <mxGraphModel dx="1242" dy="708" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+        <mxCell id="57fe6abec08f04cb-1" value="Input" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0080FF;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="90" y="180" width="170" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-2" value="&lt;font style=&quot;font-size: 25px&quot;&gt;0. Scope&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0075E8;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="180" width="170" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-3" value="&lt;font style=&quot;font-size: 22px&quot;&gt;1. Collect &lt;br&gt;data&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0067CC;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="390" y="180" width="170" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-4" value="&lt;blockquote style=&quot;margin: 0 0 0 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;2. Appraisal&lt;/font&gt;&lt;/blockquote&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0062C4;fontColor=#FFFFFF;strokeColor=none;align=left;" parent="1" vertex="1">
+          <mxGeometry x="540" y="180" width="170" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-5" value="&lt;blockquote style=&quot;margin: 0px 0px 0px 40px ; border: none ; padding: 0px&quot;&gt;&lt;font style=&quot;font-size: 20px&quot;&gt;3. Analysis&lt;/font&gt;&lt;/blockquote&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#0059B0;fontColor=#FFFFFF;strokeColor=none;align=left;" parent="1" vertex="1">
+          <mxGeometry x="690" y="180" width="170" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-6" value="&lt;font style=&quot;font-size: 23px&quot;&gt;4. Filnlize &lt;br&gt;CER&lt;/font&gt;" style="shape=step;whiteSpace=wrap;html=1;fontSize=28;fillColor=#004D99;fontColor=#FFFFFF;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="840" y="180" width="170" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-7" value="Clinical Evaluation Process" style="text;html=1;strokeColor=none;fillColor=#61BAFF;align=center;verticalAlign=middle;whiteSpace=wrap;fontSize=54;fontStyle=1;fontColor=#004D99;" parent="1" vertex="1">
+          <mxGeometry x="120" y="110" width="860" height="60" as="geometry"/>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-8" value="State-of-the-art&lt;br&gt;Claims&lt;br&gt;Risks" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="100" y="280" width="140" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-9" value="Planning phase&lt;br&gt;&lt;br&gt;Define use and regulations" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="240" y="280" width="150" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-10" value="Design phase&lt;br&gt;&lt;br&gt;Clinical development plan" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="400" y="280" width="140" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-11" value="Design phase&lt;br&gt;&lt;br&gt;Clinical development plan" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="550" y="280" width="140" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-12" value="Design phase&lt;br&gt;&lt;br&gt;Clinical development plan" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="700" y="280" width="140" height="80" as="geometry"/>
+        </mxCell>
+        <mxCell id="57fe6abec08f04cb-13" value="Release to market&lt;br&gt;&lt;br&gt;Finalize CEP, CER" style="text;spacingTop=-5;fillColor=#ffffff;whiteSpace=wrap;html=1;align=left;fontSize=12;fontFamily=Helvetica;fillColor=none;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="855" y="280" width="140" height="80" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
