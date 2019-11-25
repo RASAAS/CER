@@ -1,4 +1,4 @@
-<mxfile modified="2019-11-24T12:38:10.585Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="7H7HPK0tbamlIq3F5Erc" version="12.2.9" type="github" pages="2">
+<mxfile modified="2019-11-25T02:07:40.860Z" host="www.draw.io" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36" etag="dHIoCBf6cFvF6SuMII1M" version="12.2.9" type="github" pages="2">
   <diagram id="Ht1M8jgEwFfnCIfOTk4-" name="Page-1">
     <mxGraphModel dx="2778" dy="1476" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -299,11 +299,47 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="AgdobS-rs---Fl0ASMS1" name="Page-2">
+  <diagram id="AgdobS-rs---Fl0ASMS1" name="PMCF">
     <mxGraphModel dx="1389" dy="738" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="DOIk3b8-vo_MqmbwUiB8-0"/>
         <mxCell id="DOIk3b8-vo_MqmbwUiB8-1" parent="DOIk3b8-vo_MqmbwUiB8-0"/>
+        <mxCell id="DOIk3b8-vo_MqmbwUiB8-2" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.emr;" vertex="1" parent="DOIk3b8-vo_MqmbwUiB8-1">
+          <mxGeometry x="290" y="180" width="110" height="110" as="geometry"/>
+        </mxCell>
+        <mxCell id="DOIk3b8-vo_MqmbwUiB8-5" value="CER" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="DOIk3b8-vo_MqmbwUiB8-1">
+          <mxGeometry x="330" y="290" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="DOIk3b8-vo_MqmbwUiB8-6" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.quicksight;" vertex="1" parent="DOIk3b8-vo_MqmbwUiB8-1">
+          <mxGeometry x="120" y="380" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="DOIk3b8-vo_MqmbwUiB8-7" value="PMS/PMCF" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="DOIk3b8-vo_MqmbwUiB8-1">
+          <mxGeometry x="130" y="490" width="80" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="DOIk3b8-vo_MqmbwUiB8-8" value="" style="outlineConnect=0;fontColor=#232F3E;gradientColor=#945DF2;gradientDirection=north;fillColor=#5A30B5;strokeColor=#ffffff;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;shape=mxgraph.aws4.resourceIcon;resIcon=mxgraph.aws4.kinesis_data_streams;" vertex="1" parent="DOIk3b8-vo_MqmbwUiB8-1">
+          <mxGeometry x="470" y="380" width="100" height="100" as="geometry"/>
+        </mxCell>
+        <mxCell id="DOIk3b8-vo_MqmbwUiB8-9" value="Risk Management" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];;autosize=1;" vertex="1" parent="DOIk3b8-vo_MqmbwUiB8-1">
+          <mxGeometry x="465" y="490" width="110" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="DOIk3b8-vo_MqmbwUiB8-12" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fillColor=#007FFF;" edge="1" parent="DOIk3b8-vo_MqmbwUiB8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267.5" y="430" as="sourcePoint"/>
+            <mxPoint x="440" y="430" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOIk3b8-vo_MqmbwUiB8-14" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fillColor=#007FFF;" edge="1" parent="DOIk3b8-vo_MqmbwUiB8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="360" as="sourcePoint"/>
+            <mxPoint x="280" y="310" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="DOIk3b8-vo_MqmbwUiB8-15" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;fillColor=#007FFF;" edge="1" parent="DOIk3b8-vo_MqmbwUiB8-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="360" as="sourcePoint"/>
+            <mxPoint x="410" y="310" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
