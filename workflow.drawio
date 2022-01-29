@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-01-29T11:05:44.176Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="IPjMlKGMW7mdn-GXFbNo" version="16.3.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-01-29T11:07:47.289Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36" etag="BmIYPT7nxTfd62vfcT_y" version="16.3.0" type="github">
   <diagram id="sVCKCs1n_FH8c0135Imq" name="文献选择方法-中文">
     <mxGraphModel dx="1088" dy="771" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -19,11 +19,28 @@
         <mxCell id="hd-EJ8_mgpXZz8sTFrz2-2" value="阅读标题和摘要" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="160" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="hd-EJ8_mgpXZz8sTFrz2-9" value="&lt;span style=&quot;font-size: 11px&quot;&gt;具有相关性、可用性&lt;/span&gt;" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="hd-EJ8_mgpXZz8sTFrz2-4" target="hd-EJ8_mgpXZz8sTFrz2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hd-EJ8_mgpXZz8sTFrz2-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="hd-EJ8_mgpXZz8sTFrz2-4" target="hd-EJ8_mgpXZz8sTFrz2-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hd-EJ8_mgpXZz8sTFrz2-12" value="不符合纳入标准" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="hd-EJ8_mgpXZz8sTFrz2-11">
+          <mxGeometry x="-0.02" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="hd-EJ8_mgpXZz8sTFrz2-4" value="&lt;span style=&quot;font-size: 14pt ; line-height: 19.9733px ; letter-spacing: -0.05pt&quot;&gt;获取文献全文，进行详细评估&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hd-EJ8_mgpXZz8sTFrz2-6" value="&lt;span style=&quot;font-size: 14pt ; line-height: 19.9733px ; letter-spacing: -0.05pt&quot;&gt;排除的文献，并说明理由&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="580" y="150" width="160" height="60" as="geometry" />
+          <mxGeometry x="620" y="150" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hd-EJ8_mgpXZz8sTFrz2-8" value="&lt;span style=&quot;font-size: 14pt ; line-height: 19.9733px ; letter-spacing: -0.05pt&quot;&gt;文献纳入临床评价&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="hd-EJ8_mgpXZz8sTFrz2-10" value="&lt;span style=&quot;font-size: 14pt ; line-height: 19.9733px ; letter-spacing: -0.05pt&quot;&gt;排除的文献，并说明理由&lt;/span&gt;&lt;span style=&quot;font-size: medium&quot;&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="620" y="260" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
